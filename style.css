@@ -1,0 +1,52 @@
+body {
+    background-color: green;
+  }
+  
+  .oi {
+    background-color: #001ebd;
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  .hg {
+    padding: 40px 0;
+    background-color: black;
+    width: 430px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  
+  .qw {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 7px solid green;
+    margin: 0 auto;
+  }
+  
+  .as {
+    background-color: rgb(246, 255, 0);
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 7px solid rgb(39, 216, 8);
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  .zx {
+    background-color: rgb(30, 255, 0);
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 7px solid green;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
